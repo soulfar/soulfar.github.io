@@ -6,16 +6,14 @@ header-img: "img/plane.jpg"
 ---
 
 <center>
-    <p><img src="http://dreamofbook.qiniudn.com/Zero.png" align="center"></p>
+    <p><img src="http://oa0rgcr6l.bkt.clouddn.com/soulfar-small.jpg" align="center"></p>
 </center>
 
-Ehhhh...I know it's not a good question.
+Hi, my Name is Duelfang. And I'm a father intereting in education. And I will record my studying experience in this blog. 
 
-My Name is Azeril. You may find me in sites like douban.com / Goodreads.com / Facebook / Instagram / Twitter / Weibo.com, so on and so forth. It’s easy to know me. My short name is Az., quite easy to remember, right?
+一个父亲，在陪伴女儿成长的过程中，也重新发现自己，教育自己。在Soufarland，将记录下我学习的过程。
 
-喜欢折腾的伪技术宅。一点点 geek，一丢丢的执著，就像吃烧烤时多少会撒一点孜然，恰到好处就够。日常之中，多的是折腾劲，也希望能添几分专注、几许勇敢。这就是我。
-
-——Azeril
+——Duelfang
 
 
 > Live long and prosper
