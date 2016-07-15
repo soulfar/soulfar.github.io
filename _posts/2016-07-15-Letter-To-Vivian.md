@@ -11,7 +11,7 @@ description: 写给女儿Vivian的一封信
 
 看了影片《星际穿越》，心情久久不能平复，总想写点儿什么东西下来，有点儿影评，有点儿英语学习，也有点儿像写给女儿的一封信。
 
-![](https://mmbiz.qlogo.cn/mmbiz/nUgDHickWWK4gXhzCkgkGU8qu2IIicYD7NHjXBbLgTOaVdHbtJCW4hmo5MCKvn1tic5rUn5D4YyVSxX0A7ACicEWHQ/0)
+![](http://oa0rgcr6l.bkt.clouddn.com/xingji.jpg)
 
 ##书单
 
@@ -21,7 +21,7 @@ description: 写给女儿Vivian的一封信
 
 放寒假了，语文老师布置作业，列了一个25本书的书单，要求至少读5本。
 
-![](https://mmbiz.qlogo.cn/mmbiz/nUgDHickWWK4gXhzCkgkGU8qu2IIicYD7NzP610KejQibqbDjibHBkEPQqibibMYibkAXiaClQ3JQbJWiaWuiboicADgz81Zw/0)
+![](http://oa0rgcr6l.bkt.clouddn.com/booklist.jpg)
 
 
 不错嘛，都是好书。有些我看过，有些没看过。有些小时候看过，比如《基督山伯爵》。有些是过了三十岁才看的，比如因为东东枪推荐的林语堂写的《苏东坡传》，真心喜欢。
@@ -34,7 +34,7 @@ Vivian一放假就向同学借了好几本。后来因为要去东北旅游十�
 
 我想了一下，跟他说，“我回忆了一下自己小时候五年级才开始读金庸，可你女儿已经看完了。要不《丁丁历险记》，Vivian最近在看。”顽子说挺好，但是太短了，估计估计他女儿两天就看完了。我说，”要不试试《七龙珠》？不仅故事好看，人物形象赞，更主要鸟山明大师分镜头的功力是最强的。你看《西游降魔篇》最后一场戏的分镜头完全照搬《七龙珠》，周星驰就是在向大师致敬。国内目前的漫画进步很大，画功提高不少，但是分镜头的水平还差得很远。“ 顽子很高兴，马上屁颠儿屁颠儿找来《七龙珠》，看样子她女儿挺喜欢。
 
-![](https://mmbiz.qlogo.cn/mmbiz/nUgDHickWWK4gXhzCkgkGU8qu2IIicYD7NwoqTDJKVmFw23YCKMrnzCcxD8YyiayBuyVUiaXoY5Px19cibSib1zWPYgg/0)
+![](http://oa0rgcr6l.bkt.clouddn.com/7dragonballs.jpg)
 
 他是高兴了，我是又羡慕又苦恼，因为Vivian直到现在还是不喜欢读中文书。V妈也发愁，这样下去中考可怎么办啊？！抱怨说，这些经典的书为什么都那么长。
 
@@ -54,7 +54,7 @@ V妈瞪大眼睛看着我，我不过随便抱怨了一句，你也用不着bala
 
 V妈喜欢做手工，最近迷恋编手链。
 
-![](https://mmbiz.qlogo.cn/mmbiz/nUgDHickWWK4gXhzCkgkGU8qu2IIicYD7NXzQkoq9qh37qk2OibPddydXfaZIVDHr1QQrnsyrclmcYBj1Czicop5AA/0)
+![](http://oa0rgcr6l.bkt.clouddn.com/shoulian.jpg)
 
 有天晚上，她在编手链，我在看书，Vivian在给她的偶像Jolin做PPT。
 
@@ -90,8 +90,8 @@ Vivian最近一直处在英语口语表达的瓶颈当中，无法突破。我�
 
 >我们读诗、写诗并不是因为它们好玩，而是因为我们是人类的一分子，而人类是充满激情的。没错，医学、法律、商业、工程，这些都是崇高的追求，足以支撑人的一生。但诗歌、美丽、浪漫、爱情，这些才是我们活着的意义。
 
-![](https://mmbiz.qlogo.cn/mmbiz/nUgDHickWWK4gXhzCkgkGU8qu2IIicYD7NGXs5ib0oowic6ob48YsqiciaOibLV47TfiaB0z1N4bsiahcgBZffq6uhvkygw/0)
-![](https://mmbiz.qlogo.cn/mmbiz/nUgDHickWWK4gXhzCkgkGU8qu2IIicYD7N49qppwthllq6AggpHrBJ3KlZvkicn9dwmANuibXe3Ss6bQNY20jHapVQ/0)
+![](http://oa0rgcr6l.bkt.clouddn.com/poet.jpg)
+![](http://oa0rgcr6l.bkt.clouddn.com/poet2.jpg)
 
 是啊，诗歌、美丽、浪漫、爱情，这些美好的东西，才是我们活着的意义。而我们学习各种东西，不仅仅是为了获取知识，知识是学不完的，更重要的是学会发现这些美好的能力。
 
@@ -108,10 +108,10 @@ Vivian最近一直处在英语口语表达的瓶颈当中，无法突破。我�
 又是有天晚上，我在看《一代宗师》，V妈在我旁边做手工，不时看两眼。当章子怡刚出场，因为不服父亲输给叶问，向叶问单挑。V妈突然又冒出一句，这两人肯定有一腿。我狂喷一口血。太可爱了吧你，文艺片都能看出八卦来。
 
 我最有感触的却是两人最后一次见面分手时，宫二说的话。
-![](https://mmbiz.qlogo.cn/mmbiz/nUgDHickWWK4gXhzCkgkGU8qu2IIicYD7NT43ATu6MBVAV6ImAQckA4UVGM63GKM7TiamfSdYia7AuxFTxvptTo5hQ/0)
-![](https://mmbiz.qlogo.cn/mmbiz/nUgDHickWWK4gXhzCkgkGU8qu2IIicYD7NY9ZsXk6VesnNZbjpDCs7T2DNvssj5tKQDwHdWAxEFwwia0050awuHkQ/0)
-![](https://mmbiz.qlogo.cn/mmbiz/nUgDHickWWK4gXhzCkgkGU8qu2IIicYD7NdHu81jJwBq2zrLEvwQ6tZ2StoM8J8dYsG1vdyylSb10K0KSJ9sn3Nw/0)
-![](https://mmbiz.qlogo.cn/mmbiz/nUgDHickWWK4gXhzCkgkGU8qu2IIicYD7NIeDDFnDsUuGQbQmAPx760uJ3YlpOy3uqb11FlibujSYzcJnz2YrQQZQ/0)
+![](http://oa0rgcr6l.bkt.clouddn.com/master_yep.jpg)
+![](http://oa0rgcr6l.bkt.clouddn.com/master_yep1.jpg)
+![](http://oa0rgcr6l.bkt.clouddn.com/master_yep2.jpg)
+![](http://oa0rgcr6l.bkt.clouddn.com/master_yep3.jpg)
 
 
 
@@ -126,7 +126,7 @@ Vivian最近一直处在英语口语表达的瓶颈当中，无法突破。我�
 
 前天晚上看了《星际穿越》。人类由于自己的愚昧狂妄而毁灭了地球，最终靠一个父亲，在五维空间里（这个空间里时间都已固定）， 找到一个合适的时间，通过摩尔斯电码，将拯救世界的秘密传到一块他留给女儿的手表里，女儿最终找到了手表，发现了秘密，拯救了人类，最终也找回了父亲。
 
-![](https://mmbiz.qlogo.cn/mmbiz/nUgDHickWWK4gXhzCkgkGU8qu2IIicYD7N74ibu0UKZwgUfyT5uSjIxs4HJm58FLFYFVnmx76P8GzOcTof7jibyAWg/0)
+![](http://oa0rgcr6l.bkt.clouddn.com/watch.jpg)
 
 这部片子去年年底上映的时候很火，但我没有去影院看，虽然是我近十年最喜欢的导演诺兰的作品。因为我觉得看电影是件很私人的事儿，就像看书一样，要等待心情，静静享受。那时候网络上到处都是讨论片子当中的虫洞理论，五维空间什么的。但是看完影片，我只看到了一对父女之间互相深深的爱。无论是《致命魔术》里的大变活人，还是《盗梦空间》里的梦中梦，到现在《星际穿越》中的五维空间，这些不过是导演诺兰所借助的工具而已，他深处表达的都是父亲对子女的爱。
 
