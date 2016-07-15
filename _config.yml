@@ -4,13 +4,13 @@ header-img: "img/autumn2.jpg"
 tagline: "心远"  
 description: "心远地自偏"  
 baseurl: ""
-url: "http://duelfang.github.io"  
+url: "http://soulfar.github.io"  
 #url: "http://localhost:4000"
 
 # About/contact
 owner: 
-  name: "Duelfang"
-  email: duelfang@gmail.com
+  name: "Soulfar"
+  email: soulfar@qq.com
   bio: "心远地自偏"
 
 # Data
@@ -61,9 +61,9 @@ defaults:
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : Duelfang
+    short_name : Soulfar
   disqus :
-      short_name : Duelfang
+      short_name : Soulfar
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-66863061-1
