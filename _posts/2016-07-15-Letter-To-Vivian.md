@@ -4,41 +4,37 @@ title: 书单、诗歌和摩尔斯
 subtitle:   "写给女儿Vivian的一封信 "
 categories: [blog ]
 tags: [Film, Talk, ]
-description: 每一个人都看到了一些不一样的东西
+description: 写给女儿Vivian的一封信
 ---
 
 
 
-
-
-
-
-
-
-不好意思，看了《星际穿越》，心情久久不能平复，总想写点儿什么东西下来。有点儿影评，有点儿英语学习，写的很散，想到哪儿说到哪儿可能也很长，大家将就着看吧。文中有剧透，还没有看过影片的同学就先不要看这篇文章了。
+看了影片《星际穿越》，心情久久不能平复，总想写点儿什么东西下来，有点儿影评，有点儿英语学习，也有点儿像写给女儿的一封信。
 
 ![](https://mmbiz.qlogo.cn/mmbiz/nUgDHickWWK4gXhzCkgkGU8qu2IIicYD7NHjXBbLgTOaVdHbtJCW4hmo5MCKvn1tic5rUn5D4YyVSxX0A7ACicEWHQ/0)
 
-书单
+##书单
 
-1
+###1
 
 上学期接到Vivian学校的一个通知，因为中考改革方案已出台，语文将不再主要考课本内容，而是考课外知识，列了个几百本的书目，而初中学业又很繁忙，不会有足够的时间阅读这些书，所以要求学生从五年级就开始阅读。
 
 放寒假了，语文老师布置作业，列了一个25本书的书单，要求至少读5本。
+
+![](https://mmbiz.qlogo.cn/mmbiz/nUgDHickWWK4gXhzCkgkGU8qu2IIicYD7NzP610KejQibqbDjibHBkEPQqibibMYibkAXiaClQ3JQbJWiaWuiboicADgz81Zw/0)
 
 
 不错嘛，都是好书。有些我看过，有些没看过。有些小时候看过，比如《基督山伯爵》。有些是过了三十岁才看的，比如因为东东枪推荐的林语堂写的《苏东坡传》，真心喜欢。
 
 Vivian一放假就向同学借了好几本。后来因为要去东北旅游十天，我就在kindle里下载了一些，路上看。可是直到寒假结束，她也才看了一本半。
 
-2
+###2
 
 我有个朋友，顽子，他女儿跟Vivian同岁。去年顽子给他女儿专门买了个kindle。他女儿也挺厉害，《金庸全集》看完了，《明朝那些事儿》看了两遍，现在一天到晚追着他爸要书看。顽子没辙了，找我推荐书。
 
 我想了一下，跟他说，“我回忆了一下自己小时候五年级才开始读金庸，可你女儿已经看完了。要不《丁丁历险记》，Vivian最近在看。”顽子说挺好，但是太短了，估计估计他女儿两天就看完了。我说，”要不试试《七龙珠》？不仅故事好看，人物形象赞，更主要鸟山明大师分镜头的功力是最强的。你看《西游降魔篇》最后一场戏的分镜头完全照搬《七龙珠》，周星驰就是在向大师致敬。国内目前的漫画进步很大，画功提高不少，但是分镜头的水平还差得很远。“ 顽子很高兴，马上屁颠儿屁颠儿找来《七龙珠》，看样子她女儿挺喜欢。
 
-
+![](https://mmbiz.qlogo.cn/mmbiz/nUgDHickWWK4gXhzCkgkGU8qu2IIicYD7NwoqTDJKVmFw23YCKMrnzCcxD8YyiayBuyVUiaXoY5Px19cibSib1zWPYgg/0)
 
 他是高兴了，我是又羡慕又苦恼，因为Vivian直到现在还是不喜欢读中文书。V妈也发愁，这样下去中考可怎么办啊？！抱怨说，这些经典的书为什么都那么长。
 
@@ -54,9 +50,11 @@ Vivian不喜欢看书，也没时间看书，玩的时间都不够，干脆让�
 
 V妈瞪大眼睛看着我，我不过随便抱怨了一句，你也用不着balabala那么多吧？你个唐僧！（呵呵，其实她最喜欢听我说话了。）她还是无奈地接受了我的看法，因为我们以前一直限制孩子使用电子产品的。
 
-3
+###3
 
 V妈喜欢做手工，最近迷恋编手链。
+
+![](https://mmbiz.qlogo.cn/mmbiz/nUgDHickWWK4gXhzCkgkGU8qu2IIicYD7NXzQkoq9qh37qk2OibPddydXfaZIVDHr1QQrnsyrclmcYBj1Czicop5AA/0)
 
 有天晚上，她在编手链，我在看书，Vivian在给她的偶像Jolin做PPT。
 
@@ -84,15 +82,16 @@ Eureka! 尤里卡！
 
 想通了这点，让我不再纠结Vivian的阅读问题。就让她自己随便读，《斗破苍穹》漫画无所谓，知心姐姐伍美珍也没关系，就等她自己慢慢去发现，等到哪天她开始看我书架里的书我就高兴了。
 
-诗歌
+##诗歌
 
 Vivian最近一直处在英语口语表达的瓶颈当中，无法突破。我用《死亡诗社》里Keating老师教Todd如何写诗的片段来教她how to express。Vivian很感兴趣，还把整个影片看了一遍，我把当中Keating老师六次上课的片段重点讲了一下。其中我最喜欢的就是Keating告诉学生为什么要读诗那个片段。
 
-We don't read and write poetry because it's cute. We read and write poetry because we are members of the human race. And the human race is filled with passion. And medicine, law, business, engineering -- these are noble pursuits and necessary to sustain life. But poetry, beauty, romance, love -- these are what we stay alive for。
+>We don't read and write poetry because it's cute. We read and write poetry because we are members of the human race. And the human race is filled with passion. And medicine, law, business, engineering -- these are noble pursuits and necessary to sustain life. But poetry, beauty, romance, love -- these are what we stay alive for。
 
-我们读诗、写诗并不是因为它们好玩，而是因为我们是人类的一分子，而人类是充满激情的。没错，医学、法律、商业、工程，这些都是崇高的追求，足以支撑人的一生。但诗歌、美丽、浪漫、爱情，这些才是我们活着的意义。
+>我们读诗、写诗并不是因为它们好玩，而是因为我们是人类的一分子，而人类是充满激情的。没错，医学、法律、商业、工程，这些都是崇高的追求，足以支撑人的一生。但诗歌、美丽、浪漫、爱情，这些才是我们活着的意义。
 
-
+![](https://mmbiz.qlogo.cn/mmbiz/nUgDHickWWK4gXhzCkgkGU8qu2IIicYD7NGXs5ib0oowic6ob48YsqiciaOibLV47TfiaB0z1N4bsiahcgBZffq6uhvkygw/0)
+![](https://mmbiz.qlogo.cn/mmbiz/nUgDHickWWK4gXhzCkgkGU8qu2IIicYD7N49qppwthllq6AggpHrBJ3KlZvkicn9dwmANuibXe3Ss6bQNY20jHapVQ/0)
 
 是啊，诗歌、美丽、浪漫、爱情，这些美好的东西，才是我们活着的意义。而我们学习各种东西，不仅仅是为了获取知识，知识是学不完的，更重要的是学会发现这些美好的能力。
 
@@ -102,14 +101,17 @@ We don't read and write poetry because it's cute. We read and write poetry becau
 学习科学，不是为了分数，而是训练你的思维，找到这个世界运行的规律；
 学习文学，不是为了考试，而是训练你的感觉，找到人生的诗意。
 
-摩尔斯电码
+##摩尔斯电码
 
-1
+###1
 
 又是有天晚上，我在看《一代宗师》，V妈在我旁边做手工，不时看两眼。当章子怡刚出场，因为不服父亲输给叶问，向叶问单挑。V妈突然又冒出一句，这两人肯定有一腿。我狂喷一口血。太可爱了吧你，文艺片都能看出八卦来。
 
 我最有感触的却是两人最后一次见面分手时，宫二说的话。
-
+![](https://mmbiz.qlogo.cn/mmbiz/nUgDHickWWK4gXhzCkgkGU8qu2IIicYD7NT43ATu6MBVAV6ImAQckA4UVGM63GKM7TiamfSdYia7AuxFTxvptTo5hQ/0)
+![](https://mmbiz.qlogo.cn/mmbiz/nUgDHickWWK4gXhzCkgkGU8qu2IIicYD7NY9ZsXk6VesnNZbjpDCs7T2DNvssj5tKQDwHdWAxEFwwia0050awuHkQ/0)
+![](https://mmbiz.qlogo.cn/mmbiz/nUgDHickWWK4gXhzCkgkGU8qu2IIicYD7NdHu81jJwBq2zrLEvwQ6tZ2StoM8J8dYsG1vdyylSb10K0KSJ9sn3Nw/0)
+![](https://mmbiz.qlogo.cn/mmbiz/nUgDHickWWK4gXhzCkgkGU8qu2IIicYD7NIeDDFnDsUuGQbQmAPx760uJ3YlpOy3uqb11FlibujSYzcJnz2YrQQZQ/0)
 
 
 
@@ -120,41 +122,27 @@ We don't read and write poetry because it's cute. We read and write poetry becau
 
 我觉得我和宫二挺像，见过自己，也还算见过天地，但我还没崇高到见众生的地步，虽然我很敬佩那些改变世界的人。
 
-2
+###2
 
 前天晚上看了《星际穿越》。人类由于自己的愚昧狂妄而毁灭了地球，最终靠一个父亲，在五维空间里（这个空间里时间都已固定）， 找到一个合适的时间，通过摩尔斯电码，将拯救世界的秘密传到一块他留给女儿的手表里，女儿最终找到了手表，发现了秘密，拯救了人类，最终也找回了父亲。
 
+![](https://mmbiz.qlogo.cn/mmbiz/nUgDHickWWK4gXhzCkgkGU8qu2IIicYD7N74ibu0UKZwgUfyT5uSjIxs4HJm58FLFYFVnmx76P8GzOcTof7jibyAWg/0)
+
 这部片子去年年底上映的时候很火，但我没有去影院看，虽然是我近十年最喜欢的导演诺兰的作品。因为我觉得看电影是件很私人的事儿，就像看书一样，要等待心情，静静享受。那时候网络上到处都是讨论片子当中的虫洞理论，五维空间什么的。但是看完影片，我只看到了一对父女之间互相深深的爱。无论是《致命魔术》里的大变活人，还是《盗梦空间》里的梦中梦，到现在《星际穿越》中的五维空间，这些不过是导演诺兰所借助的工具而已，他深处表达的都是父亲对子女的爱。
 
-3
-
-我的这个“心远居”微信公共号玩了有几天了，挺好玩的。它的后台有用户数据分析，我发现了一个很有意思的事儿。
-
-看我文章的读者中，80%是女性。
-
-这太让我高兴了。没想到虽然现在胖了很多，但还是那么的有女人缘！
+###3
 
 
-（吐完了没？吐完了继续回来看文章）
+我认为父亲的教育是非常重要的。《了不起的盖茨比》开篇第一句话就是，
 
-其实我写的这些文章主要是想给父亲们看的。不过没关系。冯玉祥的夫人曾经说过，男人改变世界，女人通过改变男人最终改变世界！
-
-我觉得无论是男孩儿还是女孩儿，父亲的教育是非常重要的。《了不起的盖茨比》开篇第一句话就是，
-
-在我年轻幼稚，不谙世道的年纪，父亲给我的一条忠告，至今还一直在我心头萦绕。
+>在我年轻幼稚，不谙世道的年纪，父亲给我的一条忠告，至今还一直在我心头萦绕。
 “每逢你想要对别人评头品足的时候，”他对我说，“要记住，世上并非所有的人，都有你那样的优越条件。”
 他没有再多说什么，但是我俩彼此总能心照不宣，心领神会，因此我明白他的言外之意。
 
 父亲带孩子，跟母亲不一样，就是在言传身教当中。不需要讲大道理，孩子听不懂的。要教会孩子摩尔斯电码，就是那些能发现美的能力；找到一个合适的时间，我们不在五维空间里，这个合适的时间可遇不可求，只能不停地尝试，然后等待；把这个世界的秘密传进一块手表，等孩子自己去发现。
 
-文章写了四五篇了，第二篇阅读人数最多，之后越来越少。
 
-But I don't care!
-
-我只在乎一个读者，那就是Vivian。她订阅了我的公共号，不过她说不喜欢我的文章，因为看不懂。
-
-没关系，孩子，那是因为你还没有掌握摩尔斯电码。这个公共号就是我送给你的手表，希望有一天你能找到里面的秘密，能找到我。
+我建了这个博客Soulfarland，不仅是我自己的一个树洞，也是我送给Vivian的一个礼物，希望有一天她能找到里面的秘密，能找到我。。
 
 
-阅读 32916 投诉
 
