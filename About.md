@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "Welcome to Soulfarland"
+description: "莫听穿林打叶声"
 header-img: "img/plane.jpg"
 ---
 
